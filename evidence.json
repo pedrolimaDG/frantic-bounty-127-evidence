@@ -1,0 +1,34 @@
+{
+  "summary": "A public LinkedIn article under Pedro Lima's byline explains how to check startup credit offers against the providers' current terms, using three dated Sourcey records and direct vendor pages.",
+  "public_url": "https://www.linkedin.com/pulse/how-verify-startup-credit-offer-before-you-apply-pedro-lima-sb84f/",
+  "profile_url": "https://www.linkedin.com/in/pedro-lima-a5210a7b/",
+  "account_creation_date": "2013-08",
+  "account_creation_date_precision": "month, as displayed by LinkedIn's About this profile panel",
+  "prior_public_posts_count_at_least": 3,
+  "platform": "LinkedIn article",
+  "byline": "Pedro Lima",
+  "published_at": "2026-09-18",
+  "observations": [
+    {
+      "fact": "AWS Activate Founders starts with $1,000 in credits and selected participants can receive up to $5,000.",
+      "sourcey_url": "https://sourcey.com/c/aws/offers/aws-activate-founders-credits",
+      "offer_id": "aws-activate-founders-credits",
+      "quoted_value": "Up to $5,000 in AWS credits for selected Founders participants",
+      "checked_at": "2026-09-18"
+    },
+    {
+      "fact": "Google Cloud Start offers up to $2,000 in credits for one year to eligible startups founded within the last 24 months.",
+      "sourcey_url": "https://sourcey.com/c/google-cloud/offers/google-for-startups-cloud-program-start",
+      "offer_id": "google-for-startups-cloud-program-start",
+      "quoted_value": "Up to $2,000 in Google Cloud credits for one year",
+      "checked_at": "2026-09-18"
+    },
+    {
+      "fact": "DigitalOcean Startups lists 12 months of variable cloud credits and 15 months of Standard-tier support.",
+      "sourcey_url": "https://sourcey.com/c/digitalocean/offers/digitalocean-startups-program",
+      "offer_id": "digitalocean-startups-program",
+      "quoted_value": "12 months of cloud credits (amount varies) + 15 months free Standard-tier support",
+      "checked_at": "2026-09-18"
+    }
+  ]
+}
